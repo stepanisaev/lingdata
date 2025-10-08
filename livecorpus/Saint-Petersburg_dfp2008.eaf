@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-08T20:40:10+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/stepa/Downloads/Санкт-Петербург, Дмитрий Филиппович Погорелов, год рождения 2008.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Санкт-Петербург, Дмитрий Филиппович Погорелов, год рождения 2008.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:155d002e-dac4-4835-95f1-d93c4c943801</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">34</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="241370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="247620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="247670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="250000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="250000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="252840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="252900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="263230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="263260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="268880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="268880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="278000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="278057"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="283029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="283086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="289686"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="289743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="297200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="297286"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="310743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="310829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="320714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="321200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="324486"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="324543"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="334686"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="337886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="353600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="353600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="357600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="358171"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="374029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="374029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="378514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="379743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="383486"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="383571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="393314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="393571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="398029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="399457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="420600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="420714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="425914"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="426371"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="427714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="427800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="431800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="431857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="436343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="437457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="438514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="438600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="452200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="455314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="466714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="466971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="499857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="500800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="517429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="518229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="546257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="546314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="566543"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="566600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="575314"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="stepanisaev" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="dfp2008f" TIER_ID="text@dfp2008f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ммм/ это сложный вопрос/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>эээ/ мне/ я учился в гимназии и мы там изучали четыре языка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>два живых и два мёртвых английский немецкий латынь и древнегреческий</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>поэтому наверное логично что я люблю изучать языки и интересуюсь тем как устроен текст</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>на иностранных языках вот/ ну и на своём родном тоже</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>с шестого класса я учавствовал в олимпиаде по русскому/ э вот/ с одной стороны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>с другой стороны я с детства интересовался программированием</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>вот и я подумал что фундаментальная и прикладная лингвистика это хороший способ всё это совместить тем более что сама лингвистика нахдится на стыке гуманитарных и точных наук/ вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>ну и можно ещё более простое объяснение придумать у меня мама филолог а папа репетитор по математике вот так вот и получилось</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>угу ну вообще мне кажется многие кто сюда поступают говорят что вот это такой идеальный способ для них поддержать баланс между их областями интересов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ага/ ну в смысле сейчас да? и=или я могу школьные описать?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Сейчас, хорошо. Ну вот я-я живу в Дубках, поэтому мне нужно встать чтобы успеть вовремя э-ну где-то наверное за два с половиной часа до пары, если хочется приехать сильно заранее, то даже за три.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Э вот я просыпаюсь завтракаю,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>чищу зубы одеваюсь, э вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>я выхожу из общежития эээ жду автобус Дубовозку так называемую</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>э вот потом я доезжаю до Одинцово</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>там я пересаживаюсь на электричку еду до станции Славянский бульвар выхожу на Славянском бульваре пересаживаюсь на метро от Славянского бульвара еду по Арбатско-Покровской линии до Курской потом выхожу на Курской иду по этому длинному бесконечному туннелю несколько минут э вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>и ещё где-то минут десять идти до Старой Басманной</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>э вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ну потом здесь соответственно несколько пар вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>от одной как например сегодня в субботу до=даже пять иногда бывает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>э вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ну и потом я еду обратно и здесь я обедаю в Дубках я готовлю себе завтрак и ужин вот и оставшееся время делаю домашнюю работу </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ну да я хорошо это понимаю эээ и на меня тоже наверное это давит но здесь прибавляется ещё и то что это всё новая для меня обстановка меня=я в новом коллективе в другом городе мне в несколько раз дольше ехать туда-обратно здесь всё большое и город большой и университет большой вот </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>в Питере всё было значительно меньше так что я ощущаю этот эффект э вот я думаю что с ним можно работать во-первых если чем-то внеучебным заниматься </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>вот например когда я в школе учился я ходил в театральную студию вот каждую неделю по субботам возвращаться домой поздно вечером но это было событие которого я ждал всю неделю вот потом мы играли спектакль и это как-то заставляло меня держаться в форме и/ как-то/ среди серых будней не унывать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>вот ну я много учавствовал таких каких-то кружках я ходил в музыкальную школу вот это отнимало достаточно много времени у меня была высокая нагрузка но именно засчёт этой высокой нагрузки у меня не было времени как-то увязнуть в этом всём вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>сейчас мне кажется что у нас не очень высокая нагрузка но я думаю когда нагрузка станет повыше когда я найду себе что-нибудь по душе мне полегче будет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="stepanisaev" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@sai2007f" TIER_ID="text@sai2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>далее я хотел бы спросить про собственно почему ты выбрал именно лингвистику?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>что тебя привлекает в этой науке?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>то-есть эта программа прям можно сказать создана для тебя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>далее я хотел бы попросить тебя описать свой обычный учебный день там дорогу до школы ну дорогу до универа прости эм дорогу обратно как ты просыпаешься там так далее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>вот на многих людей такая вот/ такая повседневность может давить а как ты себя ощущаешь?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
